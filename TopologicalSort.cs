@@ -1,2 +1,0 @@
-// TopologicalSort implementation in C#
-
