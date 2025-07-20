@@ -1,6 +1,6 @@
-# Python Data Structures Project
+# Python Data & C# Structures Project
 
-This project demonstrates different categories of data structures implemented in Python. Each type is stored in a separate folder based on its category:
+This demonstrates different categories of data structures implemented in Python and C#. Each type is stored in a separate folder based on its category:
 
 - **Linear Structures**: Stack, Queue, Linked List
 - **Non-Linear Structures**: Binary Tree, Graph
